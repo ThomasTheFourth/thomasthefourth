@@ -1,9 +1,3 @@
-GIT
-  remote: git://github.com/luikore/rdiscount
-  revision: 0a59011cff8d146f7ca3e48b2de8f728ad45ad3c
-  specs:
-    rdiscount (1.6.8)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -60,11 +54,11 @@ DEPENDENCIES
   compass (~> 0.12.2)
   haml (~> 3.1.7)
   jekyll (~> 0.12)
+  kramdown
   liquid (~> 2.3.0)
   pygments.rb (~> 0.3.4)
   rake (~> 0.9)
   rb-fsevent (~> 0.9)
-  rdiscount!
   rubypants (~> 0.2.0)
   sass (~> 3.2)
   sass-globbing (~> 1.0.0)
